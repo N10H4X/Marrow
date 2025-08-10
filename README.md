@@ -37,9 +37,9 @@ After defeating each enemy, choose from 4 upgrade types:
 
 ### Running the Game
 
-1. **Navigate to the game directory:**
+1. **Clone the project and navigate to the game directory:**
    ```powershell
-   cd "C:\Users\Tony\Documents\GitHub\Marrow"
+   cd "C:\Users\...\"
    ```
 
 2. **Compile the Java files:**
